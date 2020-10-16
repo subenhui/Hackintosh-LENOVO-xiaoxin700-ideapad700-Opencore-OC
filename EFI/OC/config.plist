@@ -1220,7 +1220,7 @@
 		<key>BlessOverride</key>
 		<array>
 			<string>\EFI\Microsoft\Boot\bootmgfw.efi</string>
-			<string>\EFI\ubuntu\shimx64.efi</string>
+			<string>#\EFI\ubuntu\shimx64.efi</string>
 		</array>
 		<key>Boot</key>
 		<dict>
